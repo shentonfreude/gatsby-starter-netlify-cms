@@ -9,3 +9,5 @@ tags:
   - food
 ---
 That's garganelli pasta
+
+![](/img/img_20200427_200609.jpg)
